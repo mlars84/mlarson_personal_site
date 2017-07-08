@@ -14,6 +14,12 @@
     "angular-route": "^1.6.5",
     "body-parser": "^1.17.2",
     "bootstrap": "^3.3.7",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0"
   }
 }
